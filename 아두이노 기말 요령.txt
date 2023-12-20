@@ -1,0 +1,2 @@
+path 설정, npm install, live server 설치, express server 설치, node 실행, express server 실행, mongo 실행 후 과제 수행.
+
